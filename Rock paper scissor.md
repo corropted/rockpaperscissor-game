@@ -1,3 +1,9 @@
+
+## Don't forget to Star it 
+If you need help go my https://github.com/corropted/dj-games and scroll down there is discord link
+
+```js
+
 // Don't forget to star it 
 // you can add this in command handler
 // or you can use without command handler
@@ -44,3 +50,4 @@ let embed = new MessageEmbed()
             })
 }
 }
+```
